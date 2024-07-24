@@ -1,0 +1,75 @@
+2024-07-24 11-02-27 Info: New scan started on STAOP4370.
+2024-07-24 11-02-27 Info: Output directory set to C:\Program Files (x86)\Lansweeper\Tools.
+2024-07-24 11-02-27 Info: Looking for Lansweeper's install location.
+2024-07-24 11-02-27 Info: Lansweeper install location: C:\Program Files (x86)\Lansweeper\.
+2024-07-24 11-02-27 Info: Service config file found.
+2024-07-24 11-02-27 Info: Website config file found.
+2024-07-24 11-02-27 Info: Connectonstring found.
+2024-07-24 11-02-27 Info: Fetching: Service error log.
+2024-07-24 11-02-27 Info: The following file is 469677 KB, will be split in 2 parts and zipped: C:\Program Files (x86)\Lansweeper\Service\errorlog.txt.
+2024-07-24 11-02-27 Info: The following file will be split in 2 parts: C:\Program Files (x86)\Lansweeper\Service\errorlog.txt.
+2024-07-24 11-02-48 Info: The following file is 512000 KB, will be split in 2 parts and zipped: C:\Program Files (x86)\Lansweeper\Service\errorlog.txt.1.
+2024-07-24 11-02-48 Info: The following file will be split in 2 parts: C:\Program Files (x86)\Lansweeper\Service\errorlog.txt.1.
+2024-07-24 11-03-10 Info: Added Service error log.
+2024-07-24 11-03-10 Info: Fetching: Website error log.
+2024-07-24 11-03-10 Info: The following file is 390043 KB, will be split in 2 parts and zipped: C:\Program Files (x86)\Lansweeper\Website\App_Data\web_errorlog.txt.
+2024-07-24 11-03-10 Info: The following file will be split in 2 parts: C:\Program Files (x86)\Lansweeper\Website\App_Data\web_errorlog.txt.
+2024-07-24 11-03-29 Info: Added Website error log.
+2024-07-24 11-03-29 Info: Fetching: Sync error log.
+2024-07-24 11-03-29 Info: Adding C:\Program Files (x86)\Lansweeper\Service\sync_errorlog.txt.
+2024-07-24 11-03-29 Info: Added Sync error log.
+2024-07-24 11-03-29 Info: Fetching: License information.
+2024-07-24 11-03-29 Info: Added License information.
+2024-07-24 11-03-29 Info: Fetching: Top 10 largest tables.
+2024-07-24 11-03-30 Info: Added Top 10 largest tables.
+2024-07-24 11-03-30 Info: Fetching: LocalDB logs.
+2024-07-24 11-03-30 Info: Adding C:\Program Files (x86)\Lansweeper\Service\Lansweeper.LocalDB.Service.txt.
+2024-07-24 11-03-30 Info: Added LocalDB logs.
+2024-07-24 11-03-30 Info: Fetching: TestTools error log.
+2024-07-24 11-03-30 Info: Adding C:\Program Files (x86)\Lansweeper\Service\Lansweeper.TestTools.Errorlog.txt.
+2024-07-24 11-03-30 Info: Added TestTools error log.
+2024-07-24 11-03-30 Info: Fetching: Install logs.
+2024-07-24 11-03-30 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install10002-20220510093833.log.
+2024-07-24 11-03-30 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install10230-20220824122000.log.
+2024-07-24 11-03-30 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install10250-20221006102256.log.
+2024-07-24 11-03-30 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install10320-20230103130611.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install10431-20230411125517.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install10521-20230629144110.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install10616-20230815113920.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install10620-20230921120540.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install111105-20240409145645.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install11144-20231219141243.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install11171-20240305084235.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install11203-20240430100749.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install11220-20240625142417.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install53013-20150921120133.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install53017-20150922083334.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install6013048-20180215151607.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install6015126-20180529145945.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install6015134-20180626141824.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install701005-20181025133822.log.
+2024-07-24 11-03-31 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install701514-20190220110236.log.
+2024-07-24 11-03-32 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install71501-20190318134629.log.
+2024-07-24 11-03-32 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install7210020-20190911082852.log.
+2024-07-24 11-03-32 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install721052-20191023092850.log.
+2024-07-24 11-03-32 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install721086-20200218145012.log.
+2024-07-24 11-03-32 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install8013023-20200728063459.log.
+2024-07-24 11-03-32 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install8013039-20201028111319.log.
+2024-07-24 11-03-32 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install811204-20210112082106.log.
+2024-07-24 11-03-32 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install90301-20211103123051.log.
+2024-07-24 11-03-32 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install9109-20211202080133.log.
+2024-07-24 11-03-32 Info: Adding C:\Program Files (x86)\Lansweeper\Install\Install91101-20211208105637.log.
+2024-07-24 11-03-32 Info: Added Install logs.
+2024-07-24 11-03-32 Info: Fetching: EventViewer logs.
+2024-07-24 11-03-32 Info: Fetching System EventViewr logs.
+2024-07-24 11-03-37 Info: The following file is 24644 KB and will be zipped: C:\Program Files (x86)\Lansweeper\Tools\GatherLogs_temp\System.evtx.
+2024-07-24 11-03-40 Info: Fetching Application EventViewr logs.
+2024-07-24 11-03-41 Info: Adding C:\Program Files (x86)\Lansweeper\Tools\GatherLogs_temp\Application.evtx.
+2024-07-24 11-03-41 Info: Added EventViewer logs.
+2024-07-24 11-03-41 Info: Fetching: Configuration information.
+2024-07-24 11-03-41 Info: Added Configuration information.
+2024-07-24 11-03-41 Info: Fetching: LsAgent logs.
+2024-07-24 11-03-41 Info: Looking for LsAgent's install location.
+2024-07-24 11-03-41 Warning: LsAgent install location not found.
+2024-07-24 11-03-41 Info: Writing to C:\Program Files (x86)\Lansweeper\Tools\GatherLogOutput-STAOP4370-2024-07-24 11-03-41.zip
+2024-07-24 11-03-46 Info: Successfully saved!
